@@ -9,4 +9,5 @@ The Perl scripts are used for converting the binary model to text model in HTK a
 - date:   20141229
 
 #Note
-The Perl scripts also require additional files: config and empty.hed(which is empty)
+- The Perl scripts also require additional files: config and empty.hed(which is empty)
+- bmmf2mmf.pl is similar to convert.pl but more general and readable
